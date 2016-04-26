@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="chapter_one_subjects">
+        <item>תנאים לקבלת רישיון</item>
+        <item>חובות הנוהג ובעל הרכב</item>
+        <item>נהג חדש ומלווה</item>
+        <item>תאונות דרכים</item>
+        <item>שומרי החוק ופסילת רישיון</item>
+        <item>שיטת הניקוד</item>
+        <item>מבוא לתמרורים</item>
+        <item>הדרך וחלקיה - הגדרות</item>
+        <item>נתיב תחבורה ציבורית</item>
+        <item>כלי רכב - הגדרות</item>
+        <item>גורר וגרור</item>
+        <item>אלכוהול סמים ותרופות</item>
+        <item>אחריות הנהג על הנוסעים</item>
+        <item>מערכות השליטה ברכב</item>
+        <item>עזרי בטיחות ומערכות הבקרה</item>
+        <item>הסעת ילדים ברכב</item>
+    </string-array>
+
+    <string-array name="chapter_two_subjects">
+        <item>הכנה לנסיעה ברכב</item>
+        <item>הילוכים-ידני ואוטומטי</item>
+        <item>נסיעה לאחור</item>
+        <item>החלפת נתיבים ונהיגה בימין</item>
+        <item>חנייה ועצירה</item>
+        <item>התקרבות לצומת, מיקום וחצייה</item>
+        <item>פניות-ימינה ושמאלה</item>
+        <item>פניות פרסה</item>
+        <item>מהירות הנסיעה וחובת האטה</item>
+        <item>שמירת רווח</item>
+        <item>עקיפה נכונה</item>
+        <item>זכויות קדימה שלא בצומת</item>
+        <item>זכויות קדימה בצומת שאינו מתומרר</item>
+        <item>זכויות קדימה בצומת מתומרר</item>
+        <item>זכויות קדימה בצומת מרומזר</item>
+        <item>הולכי רגל ורוכבי אופניים</item>
+        <item>שולי הדרך</item>
+    </string-array>
+
+    <string-array name="chapter_three_subjects">
+        <item>כללי נהיגה במורד</item>
+        <item>כללי נהיגה בעקומה</item>
+        <item>גורמי החלקה</item>
+        <item>נהיגה בזמן תאורה</item>
+        <item>נהיגה בקרבת רכב ביטחון</item>
+        <item>מפגש מסילת ברזל</item>
+        <item>נהיגה באזור עבודות בכביש</item>
+    </string-array>
+
+    <string-array name="chapter_four_subjects">
+        <item>מבוא לתמרורים</item>
+        <item>תמרורים לפי נושאים</item>
+        <item>הכרת הרכב - צמיגים</item>
+        <item>הכרת הרכב - מערכות ואביזרים</item>
+    </string-array>
+
+</resources>
